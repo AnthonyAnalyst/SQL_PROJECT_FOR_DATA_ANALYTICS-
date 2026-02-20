@@ -1,4 +1,4 @@
-# Customer Shopping Behavior Analysis  
+# CUSTOMER SHOPPING BEHAVIOR ANALYSIS 
 
 ### SQL for Business Intelligence  
 
